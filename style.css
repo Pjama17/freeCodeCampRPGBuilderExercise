@@ -1,0 +1,70 @@
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/65212359-55d7-4015-a595-ea893ec5bd97/dgg0agm-0f7e7105-46b1-4104-a786-a9bf019f9cae.png/v1/fill/w_1192,h_670,q_70,strp/the_dragon_and_the_warrior__4k_wallpaper__by_jimking_dgg0agm-pre.jpg");
+  background-size: cover;
+}
+
+#text {
+  background-color: #0a0a23;
+  color: #ffffff;
+  padding: 5px;
+  border-radius: 10px;
+  font-family: Cursive, Arial
+}
+
+#game {
+  max-width: 500px;
+  max-height: 400px;
+  background-color: #ffffff;
+  color: #ffffff;
+  margin: 300px auto;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+
+#controls,
+#stats {
+  border: 1px solid #0a0a23;
+  border-radius: 10px;
+  padding: 5px;
+  color: #0a0a23;
+}
+
+
+
+
+#monsterStats {
+  display: none;
+  border: 1px solid #0a0a23;
+  border-radius: 10px;
+  padding: 5px;
+  color: #ffffff;
+  background-color: #c70d0d;
+  font-family: Luminari, Arial;
+}
+
+.stat {
+  padding-right: 10px;
+  font-family: Luminari, Arial
+}
+
+button {
+  cursor: pointer;
+  color: #0a0a23;
+  background-color: #feac32;
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border: 3px solid #feac32;
+  border-radius: 10px;
+  font-family: Luminari, Arial
+  
+}
+.attribution {
+  color: white
+
+  
+}
+#dragon-image {
+  font-family: Arial;
+  font-size: 8px;
+}
+
