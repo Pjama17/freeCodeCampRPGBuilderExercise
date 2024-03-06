@@ -1,4 +1,4 @@
-# freeCodeCamp ROLE-PLAYING GAME BUILDING EXERCISE
+## freeCodeCamp ROLE-PLAYING GAME BUILDING EXERCISE
 ## My visual spin on the project code
 
 - JavaScript is unchanged from the freeCodeCamp lesson code.
